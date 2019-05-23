@@ -8,4 +8,8 @@ const schema = new mongoose.Schema({
         { timestamps: true }
     );
 
+schema.methods.isValidPassword = function isValidPassword(password) {
+    return
+}
+
 export default mongoose.model("User", schema);
