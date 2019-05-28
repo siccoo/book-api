@@ -11,4 +11,4 @@ Install dependencies and start the server: `npm install && npm start` or `yarn s
 Browse to http://localhost:8050.
 
 ## Testing
-You can test the app by running: npm test
+You can test the app by running: `npm test`
